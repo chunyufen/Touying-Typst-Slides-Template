@@ -11,5 +11,5 @@ This template used the "metropolis" theme of Touying. This template consists of 
 - an index file index.typ pointing to:
   - content files content_x.typ for storing the actual content, and
   - appendix files.
-
+The file main.typ is for input of Title, Sub-title, Author, Institution, etc.
 
