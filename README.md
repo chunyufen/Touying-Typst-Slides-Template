@@ -13,3 +13,15 @@ This template used the "metropolis" theme of Touying. This template consists of 
   - appendix files.
 The file main.typ is for input of Title, Sub-title, Author, Institution, etc.
 
+.
+├── main.typ
+├── globals.typ
+├── appendices
+│   ├── appen_1.typ
+│   └── appen_2.typ
+├── sections
+│   ├── content_1.typ
+│   ├── content_2.typ
+│   └── index.typ
+├── images
+	  └─ ai_robot.jpg
