@@ -24,5 +24,5 @@ The file main.typ is for input of Title, Sub-title, Author, Institution, etc.
 │   ├── content_2.typ
 │   └── index.typ
 └── images
-	  └── ai_robot.jpg
+    └── ai_robot.jpg
 ```
